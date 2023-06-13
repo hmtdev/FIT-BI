@@ -1,7 +1,7 @@
 # FIT-BI
 Xây dựng hệ thống Data Warehouse và Reporting cho Khoa Công Nghệ Thông Tin Trường Đại Học Công Nghiệp Thành Phố Hồ Chí Minh.
 
-## Xây dựng hệ thống docker-file gom nhung thanh phan nhu sau : 
+## Xây dựng hệ thống docker-compose file gồm những thành phần sau: 
 = Database : PostgreSQL
 - BI Tool : Metabase
 - Data Management Tool: pgAdmin4
