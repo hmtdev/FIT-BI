@@ -1,0 +1,305 @@
+"course_id","course_name","desc_course","total_credit","theory_credit","practice_credit","self_study_credit","subject_group","is_mandatory","course_name_eng","last_modified_date"
+2101513,Ứng dụng hóa học trong Công nghiệp,"",3,3,0,6,"",false,Industrial applications of chemistry,
+2101514,Ứng dụng 5S và Kaizen trong sản xuất,"",3,2,2,6,"",false,Application of Kaizen Method and 5S Technique for manufacturing,
+2101506,Đồ họa máy tính,"",3,2,2,6,"",false,Computer Graphics,
+2101516,Địa lý kinh tế,"",3,3,0,6,"",false,Economic geography,
+2101469,Đảm bảo chất lượng và kiểm thử phần mềm,"",3,2,2,6,"",false,Quality Assurance and Software Testing,
+2101477,Đại số tuyến tính tính toán,Đại Số Tuyến Tính Tính Toán hướng đến việc giải các hệ phương trình tuyến tính và các vấn đề liên quan (như tìm giá trị riêng và vector riêng). Mục tiêu của nó là thiết kế các thuật toán mang tính hiệu quả cao: nhanh và chính xác. Trong khoá học này giảng viên sẽ cung cấp cho sinh viên những kiến thức cần thiết để đạt được mục tiêu vừa nêu. Kiến thức của khoá học sẽ được ứng dụng rộng rãi trong các vấn đề quan trọng của Khoa Học Dữ Liệu.,3,2,2,5,"",false,Numerical Linear Algebra,
+2101598,Điện toán cụm Cluster Computing ,"",2,2,0,4,"",false,"",
+2101527,Âm nhạc - Nhạc lý và Guitar căn bản,"",3,1,4,6,"",false,Music - Music Theory and Guitar Basics,
+2101440,Xử lý ảnh,"",4,3,2,8,"",false,Digital Image Processing,
+2101443,Xử lý ngôn ngữ tự nhiên,"",3,3,0,6,"",false,Natural Language Processing,
+2101540,Xã hội học,"Sau khi học xong học phần người học:
+-	Có các kiến thức cơ bản về các khái niệm, phạm trù xã hội học, các quan điểm lý thuyết xã hội học và các phương pháp nghiên cứu xã hội học;
+-	Hiểu được sự khác biệt về văn hóa, cơ chế điều chỉnh xã hội, quá trình ổn định và biến đổi xã hội; mối quan hệ giữa cá nhân, nhóm/ tổ chức xã hội và xã hội;…
+-	Có khả năng phân tích, đánh giá một số hiện tượng xã hội đã và đang diễn ra trong đời sống xã hội Việt Nam dưới góc độ xã hội học.",3,2,2,5,"",false,Sociology,
+2101673,Xác định yêu cầu hệ thống,"",3,2,2,6,"",false,"",
+2101511,Xác suất trong Khoa học Dữ liệu,"Học phần sẽ bắt đầu với các kiến thức cơ bản như phân tích tổ hợp và các tiên đề của xác suất. Sau đó học phần sẽ đi vào xác suất có điều kiện và tính độc lập. Tiếp theo là các khái niệm biến ngẫu nhiên rời rạc và liên tục, cũng như kì vọng và phương sai của một biến ngẫu nhiên. Học phần sẽ giới thiệu một số phân phối xác suất cơ bản. Phân phối hợp của nhiều biến ngẫu nhiên cũng sẽ được trình bày. Sinh viên sẽ được viết code Python để tính toán và mô phỏng các mô hình xác suất.",3,2,2,5,"",false,Probability for Data Science,
+2101538,Vật lý đại cương,"- Cung cấp cho Sinh viên những khái niệm, định luật cơ bản về cơ học chất điểm, Nhiệt học, Điện từ học.
+- tạo được nền cơ sở, cơ bản cho Sinh viên khi học các kiến thức chuyên ngành và thực tế đời sống có liên quan.
+- giúp Sinh viên giải được các bài toán vật lý có liên quan đến kiến thức chuyên ngành.",3,3,0,6,"",false,General Physics,
+2101482,Tối ưu hoá cho Khoa học dữ liệu,"- trang bị cho Sinh viên những kiến thức cơ bản về tối ưu lồi phục vụ cho việc học tập và nghiên cứu các bài toán trong khoa học dữ liệu.
+- Sinh viên hiểu rõ các thuật toán tối ưu và sử dụng được phần mềm đã có để giải những bài toán tối ưu. Bước đầu hình thành kỹ năng phân tích và giải quyết các vấn đề tối ưu lồi trong những bài toán thực tế và áp dụng các thuật toán tối ưu để giải các bài toán này.
+                                                                                                                                                                                                                                                                giới thiệu về bài toán tối ưu lồi, các khái niệm về phân tích lồi, các thuật toán tối ưu lồi, lý thuyết đối ngẫu, điều kiện tối ưu và các bài toán ứng dụng tối ưu lồi cho thống kê, máy học",3,2,2,5,"",false,Optimization for Data Science,
+2101428,Tương tác người máy,"Cung cấp các kiến thức, kỹ năng cơ bản về quy trình phân tích và thiết kế giao diện, cách đánh giá giao diện có đáp ứng tiêu chuẩn tính tiện dụng của người dùng hay không",3,3,0,6,"",false,Human Computer Interaction,
+2101526,Tư tưởng Hồ Chí Minh,"Trang bị cho sinh viên những tri thức về cơ sở, quá trình hình thành, phát triển tư tưởng Hồ Chí Minh. Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội; Đảng Cộng sản Việt Nam; Nhà nước của nhân dân, do nhân dân, vì nhân dân; đại đoàn kết toàn dân tộc, đoàn kết quốc tế; văn hóa, đạo đức, con người. 
+Trên cơ sở được trang bị tri thức, sinh viên nhận thức đúng bản chất tư tưởng Hồ Chí Minh, hiểu rõ giá trị tư tưởng Hồ Chí Minh đối với con đường giải phóng dân tộc Việt Nam và những đóng góp của tư tưởng Hồ Chí Minh đối với sự tiến bộ của nhân loại. 
+Sinh viên tích cực bồi dưỡng phẩm chất đạo đức, rèn luyện bản lĩnh chính trị, phương pháp và phong cách theo gương Hồ Chí Minh xây dựng niềm tin, lý tưởng cách mạng cho bản thân.",2,2,0,4,"",false,HoChiMinh Ideology,
+2301009,Tư duy thiết kế và Trải nghiệm người dùng,"",4,2,2,8,"",false,"",
+2101445,Tính toán số & Matlab,"",2,0,4,4,"",false,Numerical Computing and Matlab,
+2101487,Tính toán song song,"Hiểu rõ kiên trúc máy tính song song và mô hình tính toán song song
+Phân tích độ phức tạp của vấn đề trong xử lý song song
+Vận dụng mô hình và môi trường lập trình song song để thiết kế các thuật giải song song giải quyết bài toán trong thực tế",3,2,2,5,"",false,Parallel Computing,
+2101517,Tâm lý học đại cương,"- hiểu và giải thích được các hiện tượng tâm lý cơ bản của con người theo quan điểm khoa học.
+- vận dụng kiến thức tâm lý vào giải quyết các bài tập thực hành, những tình huống xảy ra trong cuộc sống và nghề nghiệp.
+ - có ý thức trong việc rèn luyện và hoàn thiện nhân cách bản thân.",3,2,2,5,"",false,Psychology,
+2101476,Trực quan hóa dữ liệu,"Trực quan hoá dữ liệu giúp các cá nhân/doanh nghiệp hiểu rõ hơn về dữ liệu của mình. Thông qua trực quan hoá, người dùng có thể đưa ra các kết luận và quyết định cho hành động nghề nghiệp. Nó quan trọng cho tất cả lĩnh vực của khoa học dữ liệu. Khoá học trang bị cho sinh viên các kỹ năng cần thiết để làm tốt tác vụ này. Khoá học đặc biệt có ích cho những sinh viên muốn trở thành nhà phân tích dữ liệu (Data analysts).",3,2,2,5,"",false,Data Visualization,
+2101419,Trí tuệ nhân tạo,"",3,3,0,6,"",false,Artificial Intelligence,
+2101653,Truyền số liệu,"",3,2,2,6,"",false,"",
+2101528,Triết học Mác - Lênin,"- Cung cấp những hiểu biết có tính căn bản, hệ thống về triết học Mác – Lênin
+- Xây dựng thể giới quan duy vật và phương pháp luận biện chứng duy vật làm nền tảng cho việc nhận thức các vấn đề, nội dung các môn học khác.
+- Sinh viên nhận thức được thực chất giá trị, bản chất khoa học, cách mạng của triết học Mác - Lênin",3,3,0,6,"",false,Philosophy of Marxism and Leninism,
+2101535,Toán Ứng dụng,"Cung cấp cho người học kiến thức về:
+- Phương pháp giải bài toán quy hoạch tuyến tính.
+- Biến ngẫu nhiên.
+- Ước lượng, kiểm định giả thiết cho tham số thống kê.
+- Các phương pháp thống kê nhiều chiều: hồi quy tương quan, ANOVA, PCA.
+Nhằm trang bị cho người học phương pháp lập mô hình toán, phương pháp giải quyết một số bài toán tối ưu và phương pháp ước lượng, kiểm định giả thiết thống kê.",3,3,0,6,"",false,Applied Mathematics,
+2101532,Toán cao cấp 1,"Cung cấp cho người học những kiến thức cơ bản về:
+- Hàm số liên tục, đạo hàm, vi phân của hàm một biến số thực.
+- Tích phân và ứng dụng tích phân.
+- Chuỗi số.
+- Vi phân, cực trị hàm hai biến số.",2,1,2,3,"",false,Calculus 1,
+2101533,Toán cao cấp 2,"Cung cấp cho người học kiến thức về:
+- Ma trận.
+- Hệ phương trình tuyến tính.
+- Không gian vector R^n, ánh xạ tuyến tính.
+Nhằm trang bị cho người học một số phương tiện tính toán, phương pháp giải quyết các vấn đề, giúp ích cho việc học các môn học khác và cho công việc sau này.",2,1,2,3,"",false,Calculus 2,
+2101450,Tiếp thị điện tử,"Cung cấp cho sinh viên các kiến thức về Tiếp thị điện tử trong thời đại số và những khái niệm liên quan. 
+Tiếp cận được với ba loại nền tảng Paid, Owned, Earned và các nền tảng cơ bản Website, Digital media, Social media, Email marketing, Mobile, Search…
+Lên kế hoạch và đánh giá cho một chiến lược tiếp thị điện tử",3,2,2,5,"",false,Emarketing,
+2101525,Tiếng Việt thực hành,"Cung cấp cho sinh viên:
+- Đặc điểm, cấu trúc cơ bản của tiếng Việt.
+- Nhận biết và khắc phục những sai sót khi nói, viết, dùng từ, đặt câu.
+- Trình bày mạch lạc một văn bản, tự tin khi nói và viết tiếng Việt.",3,2,2,5,"",false,Vietnamese Language in Use,
+2101523,Tiếng Anh 2,"Học phần được thiết kế để giúp người học:
+- Hiểu được những câu và cụm từ thường được sử dụng liên quan đến những chủ đề trừu tượng trong ngữ cảnh liên quan đến công việc chuyên môn.
+- Có thể tương tác bằng những bài tập đơn giản đòi hỏi việc trao đổi thông tin trực tiếp và đơn giản ở những ngữ cảnh thường gặp và những ngữ cảnh liên quan tới công việc. ",3,3,0,6,"",false,English 2,
+2101522,Tiếng Anh 1,"Học phần được thiết kế để giúp người học:
+- Hiểu được câu và những cụm từ thường xuyên sử dụng liên quan tới những chủ đề cụ thể.
+- Khi cần có thể giao tiếp với những chủ đề cụ thể ở mức căn bản",3,3,0,6,"",false,English 1,
+2101446,Thực tập doanh nghiệp,"Thực tập tốt nghiệp như bước đệm để sinh viên trở thành người kỹ sư có thể tham gia làm việc chính thức tại các doanh nghiệp. Học phần này trang bị cho sinh viên các kiến thức thực tế giúp sinh viên giải quyết được các yêu cầu chuyên môn tại doanh nghiệp, ngoài ra các kỹ năng viết báo và thuyết trình cũng được củng cố thêm trong môi trường doanh nghiệp.",5,0,10,10,"",false,Internship,
+2101463,Thống kê máy tính & ứng dụng,"Sau khi hoàn thành môn học, sinh viên:
+Tích lũy kiến thức cơ bản về xác suất và thống kê máy tính sử dụng vào trong ngành học mình đang chọn.
+Có khả năng thực hiện thống kê mô tả và biểu diễn hình học cho tập dữ liệu mẫu. 
+Hểu được một số phân phối xác suất cơ bản cho các biến ngẫu nhiên rời rạc và biến ngẫu nhiên liên tục: Phân phối nhị thức, phân phối Poisson, phân phối chuẩn, phân phối chuẩn chuẩn hóa, phân phối t, F …
+Phân tích phương sai và phân tích hồi qui tuyến tính đơn giản trên các thuộc tính của tập dữ liệu mẫu. 
+Nắm được việc sử dụng ngôn ngữ R vào việc phân tích số liệu thống kê",3,2,2,6,"",false,Statistics Computing and Applications,
+2101503,Thị giác máy tính và ứng dụng,"",3,2,2,6,"",false,Computer Vision and Application,
+2101491,Thị giác máy tính,"Sau khi học xong học phần, sinh viên có nền tảng liên quan đến các nguyên lý, các công cụ, các kỹ thuật cũng như các thuật giải về xử lý ảnh số. Qua đó, sinh viên có khả năng tổ chức cấu trúc dữ liệu lưu trữ ảnh, tiền xử lý ảnh, phân đoạn hình ảnh và biểu diễn đối tượng hình ảnh. Đồng thời sinh viên vận dụng được các công cụ, phần mềm ứng dụng trong xử lý ảnh để giải quyết các vấn đề thực tế.",3,2,2,5,"",false,Computer Vision,
+2201652,Thương mại điện tử,"",3,2,2,6,"",false,E-commerce,
+2101495,Sự phát triển của Lịch sử và Công nghệ,"",3,3,0,6,"",false,Progress of History and Technology,
+2101568,Quản trị và bảo trì hệ thống,"",3,2,2,6,"",false,"",
+2201658,Quản trị tác nghiệp thương mại điện tử,"",3,3,0,6,"",false,Operation Management in E-commerce,
+2207420,Quản trị nguồn nhân lực,"",3,3,0,6,"",false,Human Resource Management,
+2101574,Quản trị mạng và hỗ trợ kỹ thuật,"",3,2,2,6,"",false,"",
+2107483,Quản trị học,"",3,2,2,6,"",false,Fundamentals of Management,
+2101722,Quản trị dịch vụ mạng,"",3,2,2,6,"",false,"",
+2107510,Quản trị doanh nghiệp,"",3,2,2,6,"",false,Business Management,
+2207490,Quản trị bán hàng,"",3,2,2,6,"",false,Sales management,
+2201537,Quản lý quy trình nghiệp vụ,"",3,3,0,6,"",false,Business process management,
+2201651,Quản lý dự án Hệ thống thông tin,"",3,2,2,6,"",false,Project Management for Information Systems,
+2101470,Quản lý dự án CNTT,"",3,2,2,6,"",false,IT Project Management,
+2101480,Quá trình ngẫu nhiên,"Học phần trình bày các khái niệm về xác suất và quá trình ngẫu nhiên. Tính hội tụ của các chuỗi biến ngẫu nhiên sẽ được sử dụng làm cơ sở để xây dựng giải tích quá trình ngẫu nhiên. Học phần cũng trình bày các mô hình Markov rời rạc thời gian và liên tục thời gian. Kiến thức trong học phần này sẽ đóng vai trò quan trọng trong các môn Phân tích chuỗi thời gian, Học máy, và Giải tích ngẫu nhiên cho Tài chính",2,2,0,4,"",false,Random Processes,
+2101536,Phương pháp tính,"Cung cấp cho người học kiến thức về:
+- Phương pháp tìm nghiệm gần đúng của phương trình và hệ phương trình tuyến tính cũng như phi tuyến. 
+- Phương pháp tính gần đúng các bài toán vi tích phân mà các phương pháp giải đúng không giải được.
+- Phương pháp liên tục hóa số liệu rời rạc. 
+Từ đó người học có thể vận dụng những kiến thức này để tính toán trong những bài toán trong chuyên ngành.",3,3,0,6,"",false,Numerical Methods,
+2101534,Phương pháp luận nghiên cứu khoa học,"Sau khi học xong học phần người học:
+- Có các kiến thức cơ bản về nghiên cứu khoa học, các phương pháp nghiên cứu khoa học và trình tự logic tiến hành một nghiên cứu khoa học;
+- Có một số kỹ năng nghiên cứu, kỹ năng đọc, viết học thuật, và một số kỹ năng tư duy;
+- Có ý thức học tập tích cực, có thái độ trung thực trong nghiên cứu khoa học.",2,2,0,4,"",false,Research Methodology,
+2101499,Phân tích định lượng,"",3,2,2,6,"",false,Quantitative Analysis,
+2101467,Phân tích và quản lý yêu cầu,"",3,3,0,6,"",false,Requirement Analysis and Management,
+2101635,Phân tích thiết kế mạng,"",2,2,0,4,"",false,"",
+2201625,Phân tích thiết kế hệ thống,"",3,2,2,6,"",false,System Analysis and Design,
+2101439,Phân tích thiết kế giải thuật,"",3,3,0,6,"",false,Design and Analysis of Algorithms,
+2101493,Phân tích kinh doanh,"Trong khóa học này, sinh viên được tiếp cận các bài toán phân tích dữ liệu kinh doanh thực tế. Sinh viên áp dụng các kiến thức thống kê cũng như mô hình hóa dữ liệu để đưa ra các thông tin thu được từ dữ liệu cũng như tiến hành thực hiện các chương trình dự đoán
+",3,2,2,5,"",false,Business Analysis,
+2101492,Phân tích dữ liệu Bayesian,"Sau khi học xong học phần, sinh viên có nền tảng liên quan đến các nguyên lý, các công cụ, các kỹ thuật cũng như các thuật giải về phân tích dữ liệu Bayes. Sinh viên có khả năng sử dụng các framework dựa trên các mô hình thống kê và máy học để suy diễn và dự đoán.",3,2,2,5,"",false,Bayesian Data Analysis,
+2101483,Phân tích chuỗi thời gian,"Học phần trình bày các khái niệm về xác suất và quá trình ngẫu nhiên. Tính hội tụ của các chuỗi biến ngẫu nhiên sẽ được sử dụng làm cơ sở để xây dựng giải tích quá trình ngẫu nhiên. Học phần cũng trình bày các mô hình Markov rời rạc thời gian và liên tục thời gian. Kiến thức trong học phần này sẽ đóng vai trò quan trọng trong các môn Phân tích chuỗi thời gian, Học máy, và Giải tích ngẫu nhiên cho Tài chính",3,2,2,5,"",false,Time Series Analysis,
+2301008,Phát triển ứng dụng Web với Qt Engine,"",4,2,2,8,"",false,"",
+2201579,Phát triển ứng dụng Web,"",3,2,2,6,"",false,Web Application Development,
+2101472,Phát triển ứng dụng,"",3,2,2,6,"",false,Application Development,
+2101565,Phát triển hệ thống đa phương tiện,"",3,2,2,6,"",false,"",
+2101569,Phát triển hệ thống tích hợp,"",3,2,2,6,"",false,"",
+2101721,Phát triển hệ thống phân tán,"",3,2,2,6,"",false,"",
+2101505,Phát triển giao diện ứng dung,"",3,2,2,6,"",false,Application Interface Development,
+2101545,Pháp luật đại cương,"- Giúp cho sinh viên có sự hiểu biết và nắm bắt một cách có hệ thống những vấn đề cơ bản về nhà nước và pháp luật nói chung, các kiến thức cơ bản của một số ngành luật cụ thể trong hệ thống pháp luật Việt Nam nói riêng.
+- Giúp cho sinh viên có điều kiện thuận lợi hơn khi tiếp cận với các môn học khác có liên quan đến pháp luật; xây dựng ý thức sống, làm việc và thói quen xử sự phù hợp với Hiến pháp và pháp luật.",2,2,0,4,"",false,General Laws,
+2101448,Những vấn đề xã hội và đạo đức nghề nghiệp,"Giải thích chính sách an toàn thông tin.
+Giải thích pháp lý về quyền sở hữu trí tuệ, khai thác phần mềm, thương mại điện tử.
+Trình bày trách nhiệm, và đạo đức của kỹ sư máy tính (CNTT).
+Trình bày tác động và ảnh hưởng của cntt đến xã hội, môi trường phát triển kinh tế.
+Mô tả được các xu hướng mới về nghề nghiệp CNTT",3,3,0,6,"",false,Social Issues and Professional Ethics,
+2101458,Nhập môn dữ liệu lớn,"- Sinh viên nắm được các đặc tính cơ bản của big data.
+- Sinh viên nắm được các đặc tính của hadoop.
+- Sinh viên hiểu được kiến trúc HDFS và Map/reduce
+- Sinh viên có khả năng vận dụng để phân tích dữ liệu lớn.",3,2,2,5,"",false,Introduction to Big data,
+2101411,Nhập môn an toàn thông tin,"Môn học này cung cấp cho sinh viên về tính cần thiết của an toàn hệ thống thông tin đối với tổ chức, cá nhân và xã hội; các bài toán an toàn thông tin cơ bản, cùng các kỹ thuật để giải quyết chúng như mã hóa, chữ ký điện tử, hàm băm và mã chứng thực,...Từ đó người học hiểu được các giao thức bảo mật và vận dụng trong các hệ thống thông tin an toàn",3,3,0,6,"",false,Introduction to Information Security,
+2101488,Khai phá đồ thị,"Mục tiêu của môn học này là cung cấp cho sinh viên các phương pháp và cũng như các thuật toán để khám phá, phân tích và khai thác các dữ liệu đồ thị. Bên cạnh đó, môn học cũng như trình bày các ứng dụng thực tế của chúng trong các lĩnh vực khác nhau (ví dụ: khoa học, xã hội, web, sinh học, …).",3,2,2,5,"",false,Graph Mining,
+2101515,Hội họa,"",3,1,4,6,"",false,Fine Art,
+2101449,Nhập môn Tin học,"Hiểu các khái niệm cơ bản về hệ thống máy tính, các thành phần cơ bản trong hệ thống máy tính và các hoạt động cơ bản trong hệ thống máy tính
+Phân biệt được các loại phần mềm
+Phân biệt được các hệ thống số, thực hiện được các phép tính trên hệ nhị phân, biết cách biểu diễn dữ liệu trên máy tính, phân biệt được các loại mã máy.
+Có khả năng tìm hiểu và sử dụng được những phần mềm ứng dụng thông dụng
+Tìm hiểu các môi trường làm việc và ứng dụng công nghệ thông tin
+Nhận thức về các mối đe dọa đến an toàn dữ liệu và thông tin trên máy tính",2,2,0,4,"",false,Foundations of Computing,
+2101485,Nhập môn Robot,"Represent 2D and 3D spatial relationships, homogeneous coordinates
+Manipulate robot arms: kinematic chains, forward and inverse kinematics, differential kinematics
+Program and navigate mobile robots: robot and map representations, motion planning
+Plan complete robot systems
+Develop present and future applications for robots",3,2,2,5,"",false,Introduction to Robotics,
+2101461,Nhập môn Lập trình,"Trang bị cho sinh viên những kiến thức cơ bản về CNTT, tin học, phần mềm, kiến thức cơ bản về lập trình.
+Có cái nhìn tổng quan và kỹ năng sử dụng ngôn ngữ lập trình C, từ đó có khả năng vận dụng cho một ngôn ngữ lập trình cụ thể.",2,0,4,2,"",false,Introduction to Programming,
+2101508,Nhập môn Kĩ thuật Dữ liệu,"Học phần giới thiệu các kĩ thuật được sử dụng trong xây dựng và triển khai các hạ tầng dữ liệu, các hệ thống SQL, và các hệ thống dữ liệu lớn",2,1,2,4,"",false,Introduction to Data Engineering,
+2101478,Nhập môn Khoa học Dữ liệu,"Trước hết học phần giới thiệu các khái niệm cơ bản về KHDL và các phương pháp xử lí dữ liệu. Học phần sau đó sẽ tóm tắt các kiến thức xác suất - thống kê cần thiết cho KHDL. Tiếp theo, học phần sẽ đi vào các phương pháp học máy có giám sát, học máy không giám sát, và học máy tăng cường. Học phần cũng trình bày một số phương pháp đánh giá mô hình học máy và phương pháp trực quan hoá dữ liệu.",3,2,2,5,"",false,Introduction to Data Science,
+2101444,Nhận dạng mẫu,"",3,2,2,6,"",false,Pattern Recognition,
+2101442,Ngôn ngữ lập trình,"",3,3,0,6,"",false,Programming Language,
+2101474,Ngôn ngữ R,"",2,0,4,4,"",false,R Language,
+2101465,Ngôn ngữ Python,"",2,0,4,4,"",false,Python Language,
+2208435,Nguyên lý quản trị tài chính,"",3,3,0,6,"",false,Principles of financial management,
+2101498,Nguyên lý mô hình hóa định lượng,"",3,3,0,6,"",false,Fundamentals of Quantitative Modeling,
+2227402,Nguyên lý kế toán,"",3,3,0,6,"",false,Principles of Accounting,
+2101502,Nguyên lý các hệ cơ sở dữ liệu,"",3,2,2,6,"",false,Principles of Database Systems,
+2101490,Lý thuyết trò chơi,"Trước đây, lí thuyết trò chơi đã có ứng dụng rộng rãi trong kinh tế và tài chính. Thời gian gần đây, lí thuyết trò chơi đã được áp dụng vào các ngành Khoa học Máy tính, Điều khiển học, Viễn thông, và Máy học. Khoá học này sẽ trang bị cho sinh viên các khái niệm, cơ sở toán học và mô hình của lí thuyết trò chơi. Khoá học cũng đề cập đến các ứng dụng của lí thuyết trò chơi trong Học máy (Học sâu, Học máy tăng cường), Kinh tế, Tài chính, Viễn thông, An ninh mạng.",3,2,2,5,"",false,Game Theory,
+2101471,Học sâu,"",3,2,2,6,"",false,Deep Learning,
+2101699,Hệ thống ảo và Khả năng mở rộng dữ liệu,"",3,2,2,6,"",false,"",
+2201482,Hệ thống thông tin quản lý,"",2,2,0,4,"",false,Management Information Systems,
+2101496,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,"",3,2,2,6,"",false,NoSQL MongoDB Database management system,
+2201425,Hệ quản trị cơ sở dữ liệu,"",3,2,2,6,"",false,Database Management Systems,
+2101489,Hệ khuyến nghị,"Hệ khuyến nghị có lẽ là lĩnh vực được ứng dụng nhiều nhất của Khoa Học Dữ Liệu. Nó là nền tảng công nghệ của Facebook, Amazon, và hầu hết các dịch vụ thương mại điện tử. Khoá học sẽ trang bị cho sinh viên kiến thức để xây dựng một hệ khuyến nghị tốt. Sinh viên có thể trở thành một Kỹ sư hoặc nhà Khoa Học Dữ Liệu",3,2,2,5,"",false,Recommendation Systems,
+2101436,Hệ cơ sở dữ liệu,"- hiểu được vai trò và chức năng của cơ sở dữ liệu quan hệ và hệ quản trị cơ sở dữ liệu
+- Mô hình hóa dữ liệu theo yêu cầu nghiệp vụ của tổ chức, thiết kế và Xây dựng được cơ sở dữ liệu.
+- Chuẩn hóa được CSDL
+- Khai thác được CSDL",4,3,2,7,"",false,Database Systems,
+2101451,Hệ Thống và Công nghệ Web,"",3,2,2,6,"",false,System and Web Technology,
+2101457,Hệ Thống Máy tính,"Môn học này cung cấp lần lượt các kiến thức cơ bản về nguyên lý hoạt động và tổ chức các máy tính số, vấn đề đánh giá hiệu suất, tính toán số học, đường đi của dữ liệu và tín hiệu điều khiển, hệ thống bộ nhớ, giao tiếp với ngoại vi. Kiến trúc các bộ xử lý Intel được sử dụng làm minh họa cho môn học này. Nắm được tổng quan về hệ điều hành, nắm được định thì và các giải thuật định thì. Nắm được quản lý hệ thống file và cấu hình được máy tính.
+Có kỹ năng xử lý các tình huống khi máy tính bị hư và kỹ năng làm việc nhóm, Nắm được nguyên lý hoạt động và tổ chức các máy tính số.",4,3,2,7,"",false,Computer Systems,
+2207415,Hành vi tổ chức,"",3,3,0,6,"",false,Organizational Behavior,
+2101537,Hàm phức và phép biến đổi Laplace,"Môn học cung cấp cho người học các kiến thức:
+- Phép tính đạo hàm, xét tính giải tích, tích phân hàm biến phức; 
+- Khai triển chuỗi Taylor, chuỗi Laurent, tính thặng dư và ứng dụng để tính tích phân; 
+- Thực hiện được các phép biến đổi Laplace, biến đổi Laplace ngược; 
+- Ứng dụng của phép biến đổi Laplace để giải phương trình vi phân, hệ phương trình vi phân và một số bài toán trong kỹ thuật.",3,3,0,6,"",false,Complex Functions and Laplace Transforms,
+2201543,Hoạch định tài nguyên doanh nghiệp,"",3,2,2,6,"",false,Enterprise Resource Planning,
+2101481,Các ngôn ngữ truy vấn cơ sở dữ liệu,"Học phần này trình bày các ngôn ngữ truy vấn cơ sở dữ liệu cho cả các SQL databases (như MySQL, DB2, và Oracle) và các no-SQL databases (như MongoDB)",2,2,0,4,"",false,Database Query Languages,
+2201545,Các hệ thống thông minh doanh nghiệp,"",3,2,2,6,"",false,Business Intelligence Systems,
+2299451,Chứng chỉ Tiếng anh,"",0,0,0,0,"",false,Certificate of English Language Proficiency,
+2199450,Chứng chỉ TOEIC 450,"",0,0,0,0,"",false,"",
+2101539,Logic học,"Môn học cung cấp cho người học các kiến thức:
+- Hiểu được chính xác các khái niệm phán đoán, suy luận, chứng minh logic thường dùng;
+- Trình bày chặt chẽ và nhất quán từ đầu đến cuối tư tưởng của mình, lập luận chặt chẽ, biết cách chứng minh, bác bỏ một vấn đề; nhận biết và chỉ ra được những lập luận ngụy biện;
+- Biết cách suy luận đúng (hợp logic), có khả năng nhận biết và bác bỏ sai lầm trong suy luận.",3,3,0,6,"",false,Logics,
+2101512,Kỹ thuật điện tử,"",3,2,2,6,"",false,Electronic Engineering,
+2101484,Kỹ thuật tài chính,"Khoá học trình bày các khái niệm cơ bản của thị trường tài chính và các loại chứng khoán cổ phiếu, trái phiếu, ngoại tệ, và chứng khoán phái sinh. Khoá học cũng bao gồm một nội dung quan trọng trong đầu tư là lí thuyết danh mục đầu tư Markowitz. Các mô hình định giá chứng khoán như cổ phiếu, trái phiếu, ngoại tệ, và chứng khoán phái sinh sẽ được mô tả. Cuối cùng, khoá học trình bày mô hình Black-Scholes để định giá quyền chọn kiểu châu Âu (European options).",3,2,2,5,"",false,Financial Engineering,
+2101405,Kỹ thuật lập trình,"Khi hoàn thành môn học, người học có khả năng:
+-	 Sử dụng được kỹ thuật đệ quy để giải quyết bài toán chia để trị.
+-	 Hiện thực được bài toán (có tối đa 1 vòng lặp và rẽ nhánh) sử dụng dữ liệu kiểu cấu trúc.
+-	Vận dụng con trỏ để giải quyết bài toán sử dụng vùng nhớ động.
+-	Phân rã một bài toán quản lý cho trước thành những bài toán con đơn giản hơn.
+-	Đưa ra các giá trị đầu vào để kiểm thử chương trình.",3,2,2,5,"",false,Programming Techniques,
+2101547,Kỹ năng xây dựng kế hoạch,"Môn học này giúp sinh viên:
+- Tổng hợp được các kiến thức cơ bản về kỹ năng xây dựng kế hoạch như: Các khái niệm, phân loại kế hoạch, cấu trúc của một bản kế hoạch, qui trình xây dựng kế hoạch và các phương pháp để xây dựng kế hoạch.
+- Áp dụng được kỹ năng xây dựng kế hoạch trong học tập và phát triển cá nhân, kế hoạch sản xuất kinh doanh.
+- Hình thành được kỹ năng phân tích đánh giá và kiểm tra được kết quả thực hiện kế hoạch.",3,2,2,5,"",false,Planning skills,
+2101500,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,"Sau khi học xong môn học này, sinh viên có khả năng:
+- Sử dụng thành thạo 10 ngón tay để soạn thảo văn bản trên máy tính, hình thành tác phong soạn thảo văn bản chuyên nghiệp. 
+- Sử dụng thành thạo các thiết bị văn phòng thường gặp",3,1,4,4,"",false,Using keyboard and office equipment skills,
+2101546,Kỹ năng làm việc nhóm,"Tổng hợp được những kiến thức về kỹ năng làm việc nhóm; Thực hiện được một số kỹ năng, cách thức hoạt động nhóm hiệu quả.
+Vận dụng được kỹ năng làm việc nhóm trong học tập, trong công việc một cách hiệu quả.
+Hình thành thái độ tích cực trong hoạt động nhóm nhằm đạt hiệu quả cao trong công việc và trong cuộc sống.",2,1,2,3,"",false,Teamwork skills,
+2101599,Kịch bản tích hợp nâng cao,"",3,2,2,6,"",false,"",
+2227482,Kế toán tài chính,"",3,2,2,6,"",false,Financial Accounting,
+2227483,Kế toán quản trị,"",3,2,2,6,"",false,Management Accounting,
+2127481,Kế toán cơ bản,"",3,2,2,6,"",false,Foundation Accounting,
+2227439,Kiểm toán cơ bản,"",3,3,0,6,"",false,Principles of Auditing,
+2101570,Kiến trúc và tích hợp hệ thống,"",3,2,2,6,"",false,"",
+2101426,Kiến trúc và cài đặt hệ quản trị CSDL,"",3,2,2,6,"",false,"",
+2101566,Kiến trúc lưu trữ phân tán,"",2,2,0,4,"",false,"",
+2101510,Kiến trúc hướng dịch vụ và Điện toán đám mây,"- Giải thích được lý do dẫn đến sự ra đời của điện toán đám mây.
+- Hiểu được các tính chất cơ bản của điện toán đám mây.
+- Liệt kê được một số dịch vụ cơ bản của hai nhà cung cấp dịch vụ Cloud phổ biển nhất: Amazon Web Services (AWS).
+- Thực hiện được cơ sở dữ liệu big data (DynamoDb).
+- Xây dựng được ứng dụng web (Node.js) kết nối big data (DynamoDb)
+- Triển khai được ứng dụng web trên nền điện toán đám mây (AWS)",3,2,2,5,"",false,Service-Oriented Architecture and Cloud Computing,
+2101529,Kinh tế chính trị Mác - Lênin,"- Một là, trang bị cho Sinh viên những tri thức cơ bản, cốt lõi của kinh tế chính trị Mác – Lênin trong bối cảnh phát triển kinh tế của đất nước và thế giới ngày nay. Đảm bảo tính cơ bản, hệ thống, khoa học, cập nhật tri thức mới, gắn với thực tiễn, tính sáng tạo, kỹ năng, tư duy, phẩm chất người học, tính liên thông, khắc phục trùng lắp, tăng cường tích hợp và giảm tải, lược bớt những nội dung không còn phù hợp hặc những nội dung mang tính kinh viện.
+- Hai là, trên cơ sở đó hình thành tư duy, kỹ năng phân tích, đánh giá và nhận diện bản chất của các quan hệ lợi ích kinh tế trong phát triển kinh tế - xã hội và góp phần giúp Sinh viên Xây dựng trách nhiệm xã hội phù hợp trong vị trí việc làm và cuộc sống sau khi ra trường.
+- Ba là, góp phần Xây dựng lập trường, ý thức hệ tư tưởng Mác – Lênin đối với Sinh viên.",2,2,0,4,"",false,Political economics of Marxism and Leninism,
+2101447,Khóa luận tốt nghiệp,"- Củng cố các kiến thức đã học, rèn luyện thêm kỹ năng nghề, làm quen với môi trường thực tế, qua đó giúp sinh viên tự đánh giá năng lực bản thân, tự rút kinh nghiệm từ thực tế để hoàn thiện các kiến thức chuyên môn, kỹ năng nghề, đạo đức nghề nghiệp, tinh thần kỷ luật nghề nghiệp, kỷ luật lao động và định hướng nghề nghiệp sau khi tốt nghiệp.
+-	Trang bị các kỹ năng về tìm kiếm phân tích thông tin, xử lý thông tin và số liệu; phân tích thông tin dựa trên kiến thức cơ bản của nội dung học phần.
+-	Vận dụng được những kiến thức đã học vào việc thực hiện một dự án nhỏ, có tính ứng dụng trong thực tế.",8,0,16,16,"",false,Capstone project,
+2101466,Khai thác dữ liệu và ứng dụng,"",3,2,2,6,"",false,Data Mining and Application,
+2101435,Mạng máy tính,"Khi hoàn thành môn học, người học có khả năng:
+Phân biệt được các thành phần cấu thành một hệ thống mạng máy tính, các mặt ứng dụng của mạng máy tính trong thực tế 
+Diễn đạt được sự liên hệ của 1 quá trình truyền thông tin trên mạng trong mô hình OSI, họ giao thức TCP/IP 
+Giải thích được được nguyên lý vận hành của các thiết bị kết nối mạng như: Hub, Bridge, Switch, Router, modem, Access point … và các phương tiện truyền dẫn như cáp đồng, cáp quang, ... 
+Giải thích được nguyên lý hoạt động của các giao thức cơ bản trong protocol stack TCP/IP như: DHCP, DNS, HTTP, SMTP, FTP, TCP, UDP, IP, ARP … 
+Giải thích được cơ chế định tuyến và chuyển mạch trong hệ thống mạng
+Đọc, hiểu và tổng hợp được các kiến thức nguồn tài liệu liên quan đến mạng máy tính cơ bản.
+Xây dựng bài thuyết trình theo nhóm",3,3,0,6,"",false,Computer Networks,
+2123800,Môi trường và con người,"",3,2,2,6,"",false,Environment and Human,
+2301007,Mô hình hóa dữ liệu NoSQL MongoDB,"",4,2,2,8,"",false,"",
+2101468,Máy học,"",3,2,2,6,"",false,Machine Learning,
+2101531,Lịch sử Đảng Cộng sản Việt nam,"- Trang bị cho sinh viên những tri thức có tính hệ thống về quá trình ra đời, lãnh đạo Cách mạng của Đảng Cộng sản Việt Nam từ cách mạng dân tộc dân chủ nhân dân đến cách mạng xã hội chủ nghĩa. Trên cơ sở đó, sinh viên hiểu rõ chủ trương, đường lối, cương lĩnh và quá trình lãnh đạo, thực hiện đổi mới, đưa cả nước quá độ lên Chủ nghĩa xã hội của Việt Nam từ năm 1975 đến nay. 
+    - Trên cơ sở trang bị tri thức về lịch sử Đảng, giúp sinh viên nhận thức đúng đắn thực tiễn lãnh đạo của Đảng Cộng sản Việt Nam, từ đó nâng cao lòng tự hào, niềm tin của sinh viên vào sự lãnh đạo của Đảng trong quá khứ, hiện tại và tương lai.
+- Trang bị cho sinh viên phương pháp tư duy khoa học về lịch sử, kỹ năng lựa chọn tài liệu và khả năng vận dụng nhận thức lịch sử vào công tác thực tiễn, phê phán quan niệm sai trái về lịch sử của Đảng Cộng sản Việt Nam.",2,2,0,4,"",false,History of Vietnamese Communist Party,
+2301004,Lập trình thiết bị di động nâng cao,"",4,2,2,8,"",false,"",
+2101460,Lập trình phân tích dữ liệu 2,"",3,2,2,6,"",false,Data Analysis Programming 2,
+2101459,Lập trình phân tích dữ liệu 1,"",3,2,2,6,"",false,Data Analysis Programming 1,
+2101479,Lập trình phân tích dữ liệu,"Mục tiêu học phần: Sau khi học xong môn học này, sinh viên có khả năng
+Sử dụng được các thư viện trong Python để tiền xử lý dữ liệu
+Viết được chương trình có sử dụng được các lệnh, hàm và các thư viện trong Python để phân tích và trực quan hóa dữ liệu
+Mô tả vắn tắt học phần
+Môn học cung cấp cho sinh viên các kiến thức và kỹ năng làm việc với 1 ngôn ngữ đang được ứng dụng rộng rãi trong lập trình phân tích dữ liệu (Python), đồng thời cung cấp cho sinh viên các kiến thức chuyên sâu để xây dựng các ứng dụng trong các hệ thống lớn hay để phân tích dữ liệu",3,2,2,5,"",false,Data Analysis Programming,
+2301003,Lập trình phân tán với công nghệ Java,"",4,2,2,8,"",false,"",
+2101454,Lập trình phân tán với công nghệ .NET,"",3,2,2,6,"",false,Distributed Programming with .NET Technology,
+2301001,Lập trình mạng với Qt Framework,"",4,2,2,8,"",false,"",
+2101462,Lập trình hướng đối tượng,"Sau khi kết thúc học phần này, sinh viên: 
+-	Hiểu những lợi ích của việc phát triển phần mềm theo hướng đối tượng. 
+-	Hiểu được những khái niệm cơ bản và thuật ngữ trong lập trình hướng đối tượng 
+-	Hiểu vai trò của UML trong phân tích và thiết kế, ý nghĩa của các lược đồ phổ biến 
+-	Vận dụng được UML trong thu thập yêu cầu, phân tích và thiết kế 
+-	Hiện thực được các thiết kế bằng ngôn ngữ lập trình 
+-	Hiểu được sự ảnh hưởng của thiết kế để ứng dụng có thể thích ứng với sự thay đổi yêu cầu của người dùng.",3,2,2,5,"",false,Object Oriented Programming,
+2101453,Lập trình hướng sự kiện với công nghệ Java,"",4,3,2,8,"",false,Event Driven Programming with Java Technology,
+2101452,Lập trình hướng sự kiện với công nghệ .NET,"",4,3,2,8,"",false,Event Driven Programing with .NET Technology,
+2101507,Lập trình hướng dịch vụ,"",3,2,2,6,"",false,Service-oriented Programming,
+2101473,Lập trình hướng GUI với Qt FrameWork,"",4,3,2,8,"",false,GUI Programming with Qt FrameWork,
+2301006,"Lập trình WWW (Java) 
+WWW programming","",4,2,2,8,"",false,"",
+2301005,Lập trình WWW (.NET)WWW programming,"",4,2,2,8,"",false,"",
+2301000,Lập trình IoT,"",4,2,2,8,"",false,"",
+2101404,Lý thuyết đồ thị,"",3,3,0,6,"",false,Graph Theory,
+2101494,Giải tích ngẫu nhiên cho tài chính,"Khoá học trang bị cho sinh viên kiến thức về giải tích ngẫu nhiên trong tài chính. Các mô hình dựa trên giải tích ngẫu nhiên sẽ được sử dụng để định giá các sản phẩm chứng khoán phái sinh như forward, future, option và swap. Khoá học yêu cầu sinh viên có kiến thức tốt về xác suất, quá trình ngẫu nhiên, và kĩ thuật tài chính.",3,2,2,5,"",false,Stochastic Calculus for Finance,
+2101475,Giải thuật và tối ưu hoá phân tán,"",3,3,0,6,"",false,Distributed Algorithms and Optimization,
+2101542,Giáo dục thể chất 2,"- trình bày được những kiến thức cơ bản của môn thể thao đã chọn.
+- thực hiện được những kỹ thuật cơ bản của môn đã chọn.
+- Vân dụng những kiến thức đã học về : luật thi đấu, thể thức thi đấu, cách tổ chức giải để tổ chức Một giải thể thao phong trào.",2,0,4,2,"",false,Physical Education 2,
+2101541,Giáo dục thể chất 1,"- trình bày được những kiến thức cơ bản của bô môn Điền kinh.
+- thực hiện được những kỹ năng cơ bản môn chạy cự ly ngắn, nhảy cao.
+- vận dụng được kiến thức nền để tiếp thu kiến thức các môn thể thao chuyên sâu",2,0,4,2,"",false,Physical Education 1,
+2101544,Giáo dục Quốc phòng và an ninh 2,"- Môn học Giáo dục quốc phòng và an ninh 2 trang bị cho sinh viên những kiến thức cơ bản về phòng thủ dân sự và các kỹ năng thực hành về quân sự, hiểu được lịch sử và truyền thống của một số quân, binh chủng quân đội nhân dân Việt Nam sẵn sàng thực hiện nghĩa vụ quân sự, nghĩa vụ công an bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+- Giáo dục cho sinh viên có bản lĩnh, chính trị vững vàng, ý thức trách nhiệm, tác phong nhanh nhẹn, khoa học, có ý thức tổ chức kỷ luật cao trong sinh hoạt tập thể, cộng đồng và sẵn sàng tham gia lực lượng vũ trang nhân dân Việt Nam trên mọi cương vị công tác.",4,2,4,6,"",false,National defense Education and Security 2,
+2101543,Giáo dục Quốc phòng và an ninh 1,"- Môn học Giáo dục quốc phòng và an ninh 1 giúp sinh viên hiểu, biết những kiến thức cơ bản về đường lối quân sự của Đảng Cộng sản Việt Nam, chính sách, pháp luật của Nhà nước về công tác quốc phòng và an ninh trong tình hình mới.
+- Xây dựng cho sinh viên có ý thức, thái độ, trách nhiệm, trong xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",4,4,0,8,"",false,National defense Education and Security 1,
+2107492,Giao tiếp kinh doanh,"",3,2,2,6,"",false,Business Communications,
+2101486,Giao dịch định lượng,"Khoá học trang bị cho sinh viên các kiến thức về thị trường tài chính, các loại giao dịch, và các chiến lược giao dịch dựa trên phân tích kĩ thuật, phân tích cơ bản, phân tích ý kiến, và học máy. Sinh viên sẽ lập trình thực hiện các chiến lược và backtest các chiến lược này trên một sàn giao dịch. Khoá học cũng phân tích quá trình quản lí rủi ro trong giao dịch.",3,2,2,5,"",false,Quantitative Trading,
+2101402,Cấu trúc rời rạc,"Khi hoàn thành môn học, người học có khả năng:
+Diễn đạt và mô hình hóa được các vấn đề thực tế bằng cấu trúc rời rạc.
+Hiểu biết và tính toán được các bài toán trên cấu trúc logic: logic mệnh đề và logic vị từ.
+Tính toán được trên các cấu trúc tổ hợp rời rạc như tập hợp, ánh xạ bằng phép đếm và giải tích tổ hợp. Giải được một số loại bài toán hệ thức đệ quy tuyến tính cấp ≤2.
+Hiểu biết về các loại quan hệ tương đương, thứ tự trên tập hợp và xác định các tính chất của chúng.
+Hiểu biết về đại số Bool và sử dụng được phương pháp biểu đồ Karnaugh để tìm công thức đa thức tối tiểu hàm Bool có số biến ≤ 4.",3,3,0,6,"",false,Discrete Structures,
+2201600,Cấu trúc dữ liệu và giải thuật với Python,"",3,2,2,6,"",false,Data Structures and Algorithms using Python,
+2101409,Cấu trúc dữ liệu và giải thuật,"Sau khi học xong học phần này, sinh viên được trang bị các kiến thức về giải thuật và cách tổ chức dữ liệu của chương trình máy tính. Củng cố và phát triển các kỹ năng lập trình. Nắm vững và cài đặt các kiểu dữ liệu cấu trúc. Vận dụng hợp lý các cấu trúc dữ liệu như mảng, danh sách liên kết, ngăn xếp, hàng đợi, cây nhị phân tìm kiếm để giải quyết bài toán cụ thể. Vận dụng được các thuật toán tìm kiếm và sắp xếp để giải quyết bài toán cụ thể. Xác định được độ phức tạp về thời gian của thuật toán sử dụng các cấu trúc lặp và rẽ nhánh. Phát triển kỹ năng làm việc nhóm. Ngoài ra môn học này còn cung cấp các kiến thức, kỹ năng nền tảng cho những môn học sau.",4,3,2,8,"",false,Data Structures and Algorithms,
+2101524,Cơ sở văn hóa Việt Nam,"Cung cấp cho sinh viên:
+- Những tri thức cơ bản về văn hóa và văn hóa Việt Nam.
+- Giúp sinh viên có thái độ yêu mến, trân trọng, giữ gìn và phát huy những giá trị truyền thống văn hóa dân tộc.",3,2,2,5,"",false,Introduction to Vietnamese Culture,
+2101659,Cơ sở dữ liệu phân tán,"",3,2,2,6,"",false,"",
+2101501,Cơ sở dữ liệu nâng cao,"",3,2,2,6,"",false,Advanced Database Systems,
+2101660,Công nghệ và lập trình tích hợp nâng cao,"",3,2,2,6,"",false,"",
+2101420,Công nghệ phần mềm,"",3,3,0,6,"",false,Software Engineering,
+2101456,Công nghệ mới trong phát triển ứng dụng CNTT,"",3,2,2,6,"",false,New Technologies in IT Application Development,
+2101497,Công nghệ IoT hiện đại,"",3,2,2,6,"",false,Internet technology of modern things,
+2101664,Công cụ Web và Website hướng dữ liệu,"",3,2,2,6,"",false,"",
+2101509,Các nền tảng dữ liệu,"Trước hết học phần giới thiệu cấu trúc, thành phần, hoạt động của các data platforms. Học phần sau đó sẽ đề cập đến các giao thức và phương pháp để tải, lưu trữ, và sử dụng dữ liệu trên các data platforms. Cuối cùng học phần sẽ trình bày khái quát các hệ thống dữ liệu khách hàng phổ biến hiện nay như Customer Relationship Management (CRM), Data Management Platform (DMP), và Customer Data Platform (CDP).",3,2,2,5,"",false,Data platforms,
+2112014,Chủ nghĩa xã hội khoa học,"- trang bị cho Sinh viên những tri thức cơ bản, cốt lõi nhất của Chủ nghĩa xã hội khoa học, Một trong Ba bộ phận cấu thành Chủ nghĩa Mác – Lênin.
+- giúp cho Sinh viên nâng cao năng lực hiểu biết thực tiễn và khả năng vận dụng các tri thức nói trên vào việc xem xét, đánh giá những vấn đề chính trị - xã hội của đất nước liên quan đến Chủ nghĩa xã hội (CNXH) và con đường đi lên CNXH ở nước ta.
+- giúp Sinh viên có thái độ chính trị, tư tưởng đúng đắn về môn học CNXH nói riêng và nền tảng tư tưởng của Đảng nói chung.",2,2,0,4,"",false,Scientific socialism,
+2101504,CNTT trong chuyển đổi số,"- trang bị cho Sinh viên các kiến thức nền tảng của chuyển đổi số trong đó bao gồm cơ sở lý thuyết và Một số ứng dụng các kỹ thuật hiện đại ngày nay như trí tuệ nhân tạo (AI), IoT, BigData, Cloud Computing, Security để giải quyết các bài toán thực tiễn.",3,3,0,6,"",false,Information technology in digital transformation,
+2201546,Bảo mật cơ sở dữ liệu,"",3,2,2,6,"",false,Database Security,
+2101441,Automat & ngôn ngữ hình thức,"",3,3,0,6,"",false,Automata & Formal Languages,
+2101521,Anh Văn 4,"",3,3,0,6,"",false,English 4,
+2101520,Anh Văn 3,"",4,4,0,8,"",false,English 3,
