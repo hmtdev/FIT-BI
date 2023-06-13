@@ -3,43 +3,44 @@ version: '3'
 services:
   postgres-db:
     image: postgres:latest
-    container_name: postgres_db
+    container_name: postgres_container_1
     restart: always
+    ports:
+    - 5432:5432
     environment:
       - POSTGRES_DB=fitbi
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_PASSWORD=fitbi127
     volumes:
-      - postgresql_bin:/usr/lib/postgresql
-      - postgresql_data:/var/lib/postgresql/data
-    ports:
-      - 5432:5432
+      - postgres-data:/var/lib/postgresql/data
     networks:
       - fitbi
-  pgadmin4:
-    image: dpage/pgadmin4:latest
-    container_name: pgadmin4
+  pgamin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_container_1
     restart: always
-    environment:
-      - PGADMIN_DEFAULT_EMAIL=fitbi@gmail.com
-      - PGADMIN_DEFAULT_PASSWORD=fitbi
-      - PGANDMIN_CONFIG_SERVER_MODE='False'
-    volumes:
-      - pgadmin4:/var/lib/pgadmin
     ports:
-      - 5050:5050
+      - 5050:80
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=huynhtoan30@gmail.com
+      - PGADMIN_DEFAULT_PASSWORD=fitbi127
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    depends_on:
+      - postgres-db
     networks:
       - fitbi
+
   metabase-app:
     image: metabase/metabase:latest
-    container_name: metabase_container
+    container_name: metabase_1
     restart: always
     environment:
       - MB_DB_TYPE=postgres
-      - MB_DB_NAME=metabase
+      - MB_DB_NAME=fitbi
       - MB_DB_PORT=5432
       - MB_DB_USER=postgres
-      - MB_DB_PASS=postgres
+      - MB_DB_PASS=fitbi127
       - MB_DB_HOST=postgres-db
     depends_on:
       - postgres-db
@@ -53,10 +54,8 @@ networks:
     driver: bridge
 
 volumes:
-  postgresql_bin:
+  postgres-data:
     driver: local
-  postgresql_data:
-    driver: local
-  pgadmin4:
+  pgadmin-data:
     driver: local
   
